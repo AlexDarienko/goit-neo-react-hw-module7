@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.input {
+    width: 100%;
+    padding: 6px;
+    margin-top: 4px;
+}
+
+.button {
+    width: 120px;
+    padding: 6px;
+    align-self: flex-start; }

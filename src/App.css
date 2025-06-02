@@ -1,0 +1,17 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  margin-top: 20px;
+}
+
+.app {
+  padding: 20px;
+}
